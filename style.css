@@ -46,48 +46,18 @@ p
     padding-bottom: 5px;
 }
 
-bigpart -> {
-    height: 400px;
-    width: 270px;
-    rgba(171, 179, 192, 0.694), rgba(220, 234, 248, 0.674)
+img
+{
+    margin: auto;
+    margin-top: 5px;
+    border-radius: 5px;
+    width: 200px;
+    height: 200px;
 }
 
-while mouseover -> {
-   rgba(171, 179, 192, 0.796), rgba(220, 234, 248, 0.792)
+img:hover
+{
+    box-shadow: 2px 2px 8px #2e2e2e;
+    transition: 0.2s;
 }
 
-
-music player part ->{
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
-song and the song writers -> {
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
-
-song writers -> {
-    color: #666666;
-    font-size: smaller;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
-song writers while mouseover{
-    color: #2e2e2e;
-}
-
-.play,
-.back,
-.for{
-    border-color: #ffffff;
-    width: 45px;
-    height: 45px;
-    border-radius: 50%;
-}
-
-
-.back
-.for
-.play while mouseover -> {
-    border-color: #bebebe;
-}
