@@ -33,6 +33,13 @@ div:hover
     background-image: linear-gradient(rgba(171, 179, 192, 0.796), rgba(220, 234, 248, 0.792));  
 }
 
+p
+{
+    color: white;
+    text-shadow: 2px 2px 8px #2e2e2e;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 
 bigpart -> {
     height: 400px;
