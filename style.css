@@ -40,6 +40,21 @@ p
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+img
+{
+    margin: auto;
+    margin-top: 5px;
+    border-radius: 5px;
+    width: 200px;
+    height: 200px;
+}
+
+img:hover
+{
+    box-shadow: 2px 2px 8px #2e2e2e;
+    transition: 0.2s;
+}
+
 
 bigpart -> {
     height: 400px;
