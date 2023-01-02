@@ -53,6 +53,18 @@ img
     border-radius: 5px;
     width: 200px;
     height: 200px;
+
+.name
+{
+    color: #666666;
+    font-size: smaller;
+}
+
+.name:hover
+{
+    color: #2e2e2e;
+    cursor: pointer;
+    transition: 0.2s;
 }
 
 img:hover
