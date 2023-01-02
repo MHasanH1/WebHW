@@ -46,6 +46,19 @@ p
     padding-bottom: 5px;
 }
 
+.name
+{
+    color: #666666;
+    font-size: smaller;
+}
+
+.name:hover
+{
+    color: #2e2e2e;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
 bigpart -> {
     height: 400px;
     width: 270px;
